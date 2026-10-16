@@ -380,7 +380,7 @@ The following features can be added in future versions:
 
 ## 👨‍💻 Author
 
-**Sagar Sanju Kukkugol**
+**Prasad**
 
 Full Stack Developer | React | Node.js | MongoDB | Socket.IO
 
